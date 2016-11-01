@@ -1,0 +1,38 @@
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\2 курс КГ\The Swarm\The Swarm\obj\Debug\MainWindow.baml
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\2 курс КГ\The Swarm\The Swarm\obj\Debug\MainWindow.g.cs
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\2 курс КГ\The Swarm\The Swarm\obj\Debug\App.g.cs
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\2 курс КГ\The Swarm\The Swarm\obj\Debug\The Swarm_MarkupCompile.cache
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\2 курс КГ\The Swarm\The Swarm\obj\Debug\The Swarm.g.resources
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\2 курс КГ\The Swarm\The Swarm\obj\Debug\The_Swarm.Properties.Resources.resources
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\2 курс КГ\The Swarm\The Swarm\obj\Debug\The Swarm.csproj.GenerateResource.Cache
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\2 курс КГ\The Swarm\The Swarm\bin\Debug\The Swarm.exe.config
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\2 курс КГ\The Swarm\The Swarm\bin\Debug\The Swarm.exe
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\2 курс КГ\The Swarm\The Swarm\bin\Debug\The Swarm.pdb
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\2 курс КГ\The Swarm\The Swarm\obj\Debug\The Swarm.exe
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\2 курс КГ\The Swarm\The Swarm\obj\Debug\The Swarm.pdb
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\2 курс Яисп\The Swarm\The Swarm\bin\Debug\The Swarm.exe.config
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\2 курс Яисп\The Swarm\The Swarm\obj\Debug\The Swarm.exe
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\2 курс Яисп\The Swarm\The Swarm\obj\Debug\The Swarm.pdb
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\2 курс Яисп\The Swarm\The Swarm\bin\Debug\The Swarm.exe
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\2 курс Яисп\The Swarm\The Swarm\bin\Debug\The Swarm.pdb
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\2 курс Яисп\The Swarm\The Swarm\obj\Debug\The Swarm.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\2 курс Яисп\The Swarm\The Swarm\obj\Debug\MainWindow.baml
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\2 курс Яисп\The Swarm\The Swarm\obj\Debug\MainWindow.g.cs
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\2 курс Яисп\The Swarm\The Swarm\obj\Debug\App.g.cs
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\2 курс Яисп\The Swarm\The Swarm\obj\Debug\The Swarm_MarkupCompile.cache
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\2 курс Яисп\The Swarm\The Swarm\obj\Debug\The Swarm.g.resources
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\2 курс Яисп\The Swarm\The Swarm\obj\Debug\The_Swarm.Properties.Resources.resources
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\2 курс Яисп\The Swarm\The Swarm\obj\Debug\The Swarm.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\The Swarm\The Swarm\bin\Debug\The Swarm.exe.config
+C:\Users\Александр\Desktop\The Swarm\The Swarm\bin\Debug\The Swarm.exe
+C:\Users\Александр\Desktop\The Swarm\The Swarm\bin\Debug\The Swarm.pdb
+C:\Users\Александр\Desktop\The Swarm\The Swarm\obj\Debug\MainWindow.baml
+C:\Users\Александр\Desktop\The Swarm\The Swarm\obj\Debug\MainWindow.g.cs
+C:\Users\Александр\Desktop\The Swarm\The Swarm\obj\Debug\App.g.cs
+C:\Users\Александр\Desktop\The Swarm\The Swarm\obj\Debug\The Swarm_MarkupCompile.cache
+C:\Users\Александр\Desktop\The Swarm\The Swarm\obj\Debug\The Swarm.g.resources
+C:\Users\Александр\Desktop\The Swarm\The Swarm\obj\Debug\The_Swarm.Properties.Resources.resources
+C:\Users\Александр\Desktop\The Swarm\The Swarm\obj\Debug\The Swarm.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\The Swarm\The Swarm\obj\Debug\The Swarm.exe
+C:\Users\Александр\Desktop\The Swarm\The Swarm\obj\Debug\The Swarm.pdb
+C:\Users\Александр\Desktop\The Swarm\The Swarm\obj\Debug\The Swarm.csprojResolveAssemblyReference.cache
